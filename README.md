@@ -1,4 +1,4 @@
-# Project Name
+# MY PORTFOLIO
 
 > One paragraph statement about the project.
 
@@ -8,9 +8,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
+- JAVASCRIPT
 
 ## Live Demo
 
@@ -70,7 +70,7 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
+- Github: [@author](https://github.com/hebrohim)
 - Twitter: [@author](https://twitter.com/author)
 - Linkedin: [@author](https://www.linkedin.com/in/author/)
 
